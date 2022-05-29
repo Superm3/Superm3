@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Superm3
+- 👀 I’m interested in Physics
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on Physics simulations
